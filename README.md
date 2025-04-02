@@ -9,6 +9,11 @@ For this project, we are using the OMDb and a custom frontend to allow users to 
 Sean Hazard - sph325@lehigh.edu  
 Luke Burns - lpb325@lehigh.edu
 
+## Branch Structure
+- `main`: Production-ready code
+- `dev`: Integration branch for testing features
+- Feature branches: Named as `feature/feature-name`
+
 # Application Features (How it meets each requirement)
 ## User Accounts & Roles: Implement different user roles such as user/admin, free/paid, etc.
 Users can create an account to log in and store their watchlist. A basic user can manage his/her own watchlist, while an admin can manage other users' data and flag content.
