@@ -33,3 +33,5 @@ TBD. Will update after codebase is started and templates are released by Prof. O
 
 ## API Keys & Database Setup (What environment variables or external configurations are needed)
 TBD.
+create a ./lib/firebase.js and copy code from Sean or Luke.  
+create a ./scene-it/.env.local and copy variables from Sean or Luke.
